@@ -12,6 +12,15 @@ Bravella is an offline-first expense tracking mobile application built using Rea
 
 The app is designed to help users manage their finances by tracking income, expenses, and borrowed money with a strong focus on monthly organization and financial clarity. All data is stored locally on the device, ensuring complete privacy and uninterrupted usage without any internet connection.
 
+## Download
+
+You can download the Bravella Android APK for free and use it without any charges or advertisements.
+
+**[Download Bravella APK](https://drive.google.com/file/d/1X0J9hegURlLqAsHHNOA39aLVdeqDZWuR/view?usp=drive_link)**
+
+No subscription or payment is required, and the application contains no advertisements.
+
+
 ## Features
 
 • Track income, expense, and borrow transactions  
@@ -47,21 +56,6 @@ Prerequisites:
 • Node.js (v18 or higher)  
 • Expo CLI  
 • Android device or emulator  
-
-Steps:
-1. Clone the repository  
-   git clone https://github.com/your-username/bravella.git ](https://github.com/MuhammadBilal3320/Bravella---Expense-Tracker---SmartPhone-Application
-
-2. Navigate to the project directory  
-   cd bravella  
-
-3. Install dependencies  
-   npm install  
-
-4. Start the application  
-   npx expo start  
-
-Scan the QR code using Expo Go or run on an Android emulator.
 
 
 ## Build
