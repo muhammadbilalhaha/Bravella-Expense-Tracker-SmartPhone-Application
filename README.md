@@ -12,13 +12,6 @@ Bravella is an offline-first expense tracking mobile application built using Rea
 
 The app is designed to help users manage their finances by tracking income, expenses, and borrowed money with a strong focus on monthly organization and financial clarity. All data is stored locally on the device, ensuring complete privacy and uninterrupted usage without any internet connection.
 
-## Download
-
-You can download the Bravella Android APK for free and use it without any charges or advertisements.
-
-**[Download Bravella APK](https://drive.google.com/file/d/1X0J9hegURlLqAsHHNOA39aLVdeqDZWuR/view?usp=drive_link)**
-
-No subscription or payment is required, and the application contains no advertisements.
 
 
 ## Features
